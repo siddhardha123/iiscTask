@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IISC-test/static/css/main.639b9d47.css",
+    "main.js": "/IISC-test/static/js/main.48993821.js",
+    "static/js/787.29e7c5bb.chunk.js": "/IISC-test/static/js/787.29e7c5bb.chunk.js",
+    "index.html": "/IISC-test/index.html",
+    "main.639b9d47.css.map": "/IISC-test/static/css/main.639b9d47.css.map",
+    "main.48993821.js.map": "/IISC-test/static/js/main.48993821.js.map",
+    "787.29e7c5bb.chunk.js.map": "/IISC-test/static/js/787.29e7c5bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.639b9d47.css",
+    "static/js/main.48993821.js"
+  ]
+}
